@@ -1,4 +1,4 @@
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzKvrEAy4sVlAaIYR_43rKjjm_g3qmJbkQKqSPh56Eh6JnF7q-uX2o1MCvK8dnC-M1vQQ/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwvEgWZBa1JT5zgSiYg3rQTDCYHOfdiSEyzyNcSZM03fX1zE3_e9E28JUClPHVOp9D_CA/exec";
 
 // Left-panel photo per course, keyed by course_id
 const PANEL_IMAGES = {
